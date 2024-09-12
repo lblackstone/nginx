@@ -1,0 +1,10 @@
+{
+  "name": "kubernetes",
+  "devDependencies": {
+    "@types/node": "latest"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.131.0",
+    "@pulumi/kubernetes": "^4.17.1"
+  }
+}
